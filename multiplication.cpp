@@ -4,6 +4,6 @@ int main()
 {
     int a,b,c;
     cin>>a>>b;
-    c=a*b*3;
+    c=a*b*5;
     cout<<c;
 }
